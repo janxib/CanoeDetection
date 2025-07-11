@@ -1,0 +1,29 @@
+{
+  "target_classes": {
+    "8": {
+      "name": "boat",
+      "confidence": 0.3,
+      "color": [0, 255, 0]
+    },
+    "37": {
+      "name": "surfboard",
+      "confidence": 0.4,
+      "color": [0, 255, 255]
+    },
+    "0": {
+      "name": "person",
+      "confidence": 0.7,
+      "color": [255, 0, 0]
+    }
+  },
+  "detection": {
+    "base_confidence": 0.25,
+    "iou_threshold": 0.5,
+    "max_detections": 30
+  },
+  "visualization": {
+    "show_confidence": true,
+    "show_class_name": true,
+    "box_thickness": 2
+  }
+}
