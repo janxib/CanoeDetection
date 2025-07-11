@@ -1,0 +1,35 @@
+# Computer Vision and Image Processing
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+
+# Machine Learning and Data Science
+numpy==1.24.3
+scipy==1.11.1
+scikit-learn==1.3.0
+pandas==2.0.3
+
+# Deep Learning (for advanced object detection)
+torch==2.0.1
+torchvision==0.15.2
+ultralytics==8.0.147  # YOLOv8 for object detection
+
+# Image Processing and Computer Vision
+Pillow==10.0.0
+scikit-image==0.21.0
+
+# Visualization and Plotting
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Video Processing
+imageio==2.31.1
+imageio-ffmpeg==0.4.8
+
+# Utility Libraries
+tqdm==4.65.0
+argparse
+pathlib
+json5==0.9.14
+
+# Optional: GUI for visualization
+tkinter  # Usually comes with Python 
