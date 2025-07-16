@@ -1,0 +1,13 @@
+train: E:/v3/dataset/train/images
+val: E:/v3/dataset/valid/images
+
+
+nc: 2
+names: ['canoes', 'gate']
+
+roboflow:
+  workspace: aijhanzaib
+  project: canoe-v2
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/aijhanzaib/canoe-v2/2
